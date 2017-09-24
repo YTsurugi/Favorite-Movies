@@ -40,7 +40,12 @@ Yamato = media.Movie("Space Battleship Yamato",
                         "https://images-na.ssl-images-amazon.com/images/I/51-2wfYdv%2BL._SY450_.jpg",
                         "https://www.youtube.com/watch?v=czEmrnRN4MQ")
 
-movies = [Mission_impossible, Takeshi_castle, Titan, Tomb_raider, Totoro, Yamato]
+Kiminonaha = media.Movie("Kimino Nawa",
+                        "A Japanese science fiction anime series featuring an eponymous spacecraft",
+                        "http://eiga.k-img.com/images/movie/83796/photo/85fda0a0710fdf1e.jpg?1467791679",
+                        "https://www.youtube.com/watch?v=k4xGqY5IDBE")
+
+movies = [Mission_impossible, Takeshi_castle, Titan, Tomb_raider, Totoro, Yamato, Kiminonaha]
 fresh_tomatoes.open_movies_page(movies)
 
 
