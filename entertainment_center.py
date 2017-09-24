@@ -40,8 +40,8 @@ Yamato = media.Movie("Space Battleship Yamato",
                         "https://images-na.ssl-images-amazon.com/images/I/51-2wfYdv%2BL._SY450_.jpg",
                         "https://www.youtube.com/watch?v=czEmrnRN4MQ")
 
-Kiminonaha = media.Movie("Kimino Nawa",
-                        "A Japanese science fiction anime series featuring an eponymous spacecraft",
+Kiminonaha = media.Movie("Your Name",
+                        "A 2016 Japanese animated drama film",
                         "http://eiga.k-img.com/images/movie/83796/photo/85fda0a0710fdf1e.jpg?1467791679",
                         "https://www.youtube.com/watch?v=k4xGqY5IDBE")
 
